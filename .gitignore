@@ -181,7 +181,8 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
-
+._.DS_Store
+._*
 
 #############
 ## Python
